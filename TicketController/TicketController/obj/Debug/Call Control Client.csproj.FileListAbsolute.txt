@@ -1,0 +1,88 @@
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Google.Protobuf.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\MySql.Data.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Renci.SshNet.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\System.Buffers.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\System.Memory.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Zstandard.Net.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\EnvDTE.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\stdole.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\MySql.Data.xml
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\TicketController.frmAddChamado.resources
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\TicketController.frmChamados.resources
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\TicketController.frmEditChamado.resources
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\TicketController.frmMenu.resources
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\TicketController.frmRelatorio.resources
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\TicketController.Properties.Resources.resources
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\TicketController.frmSplash.resources
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.csproj.GenerateResource.cache
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\RdlCompile.cache
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\RdlCompile.compiled
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.csproj.CoreCompileInputs.cache
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.csproj.CopyComplete
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Call Control Client.exe.config
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Call Control Client.exe
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Call Control Client.pdb
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.exe
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.pdb
