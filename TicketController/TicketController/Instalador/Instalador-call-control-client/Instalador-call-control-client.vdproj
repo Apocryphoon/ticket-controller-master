@@ -393,12 +393,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5B80009AA2684BEE9C620E5476435B22"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_5BC51165894B27F107E939A466624E05"
         "OwnerKey" = "8:_139E5E5DCF3A4E57900D1A178708367C"
         "MsmSig" = "8:_UNDEFINED"
@@ -407,6 +401,12 @@
         {
         "MsmKey" = "8:_6709D6831500E389CA5D589DA2017D4E"
         "OwnerKey" = "8:_139E5E5DCF3A4E57900D1A178708367C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_67B8635E11BD40D18C484B1D0980C543"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -490,19 +490,19 @@
         "Entry"
         {
         "MsmKey" = "8:_7781E9735C6EB9A2E9A22283E456625E"
-        "OwnerKey" = "8:_9362D13B09014E75A387D9DB18BF8857"
+        "OwnerKey" = "8:_67B8635E11BD40D18C484B1D0980C543"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_7781E9735C6EB9A2E9A22283E456625E"
-        "OwnerKey" = "8:_BA00B8D4796B46A19692FB437D48CD30"
+        "OwnerKey" = "8:_FA46694C50F9464098E1E8BB7D3BDAAF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_7781E9735C6EB9A2E9A22283E456625E"
-        "OwnerKey" = "8:_5B80009AA2684BEE9C620E5476435B22"
+        "OwnerKey" = "8:_A16CDAD44E824ADA84DCC11B646A12BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -663,12 +663,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_9362D13B09014E75A387D9DB18BF8857"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_96058DCFC497963BC24E055ECD2A1ACA"
         "OwnerKey" = "8:_139E5E5DCF3A4E57900D1A178708367C"
         "MsmSig" = "8:_UNDEFINED"
@@ -719,6 +713,12 @@
         {
         "MsmKey" = "8:_9D276E358FF7B0EBA7CCFBE7D01482F1"
         "OwnerKey" = "8:_139E5E5DCF3A4E57900D1A178708367C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A16CDAD44E824ADA84DCC11B646A12BA"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -809,12 +809,6 @@
         {
         "MsmKey" = "8:_B8409790805FAFF1D29ED55A7FF7E050"
         "OwnerKey" = "8:_139E5E5DCF3A4E57900D1A178708367C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BA00B8D4796B46A19692FB437D48CD30"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1024,19 +1018,19 @@
         "Entry"
         {
         "MsmKey" = "8:_DFE8AE109072AB837D58216AE20A0675"
-        "OwnerKey" = "8:_9362D13B09014E75A387D9DB18BF8857"
+        "OwnerKey" = "8:_67B8635E11BD40D18C484B1D0980C543"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_DFE8AE109072AB837D58216AE20A0675"
-        "OwnerKey" = "8:_BA00B8D4796B46A19692FB437D48CD30"
+        "OwnerKey" = "8:_FA46694C50F9464098E1E8BB7D3BDAAF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_DFE8AE109072AB837D58216AE20A0675"
-        "OwnerKey" = "8:_5B80009AA2684BEE9C620E5476435B22"
+        "OwnerKey" = "8:_A16CDAD44E824ADA84DCC11B646A12BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1149,6 +1143,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_FA46694C50F9464098E1E8BB7D3BDAAF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_FAAD65EED37BF17F10149BD157FCA584"
         "OwnerKey" = "8:_139E5E5DCF3A4E57900D1A178708367C"
         "MsmSig" = "8:_UNDEFINED"
@@ -1210,19 +1210,19 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9362D13B09014E75A387D9DB18BF8857"
+        "OwnerKey" = "8:_67B8635E11BD40D18C484B1D0980C543"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_BA00B8D4796B46A19692FB437D48CD30"
+        "OwnerKey" = "8:_FA46694C50F9464098E1E8BB7D3BDAAF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5B80009AA2684BEE9C620E5476435B22"
+        "OwnerKey" = "8:_A16CDAD44E824ADA84DCC11B646A12BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -3503,37 +3503,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5B80009AA2684BEE9C620E5476435B22"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Call Control Client, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_5B80009AA2684BEE9C620E5476435B22"
-                    {
-                    "Name" = "8:Call Control Client.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\bin\\Debug\\Call Control Client.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_3E2A680F745A4C98B6560454CBE88F4D"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5BC51165894B27F107E939A466624E05"
             {
             "AssemblyRegister" = "3:1"
@@ -3594,6 +3563,37 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_67B8635E11BD40D18C484B1D0980C543"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Call Control Client, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_67B8635E11BD40D18C484B1D0980C543"
+                    {
+                    "Name" = "8:Call Control Client.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\bin\\Debug\\Call Control Client.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_70520977D64F45C5875997313684FEDD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_696AD18EE7FDB18C0048620EC2A1FF12"
@@ -4484,37 +4484,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9362D13B09014E75A387D9DB18BF8857"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Call Control Client, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_9362D13B09014E75A387D9DB18BF8857"
-                    {
-                    "Name" = "8:Call Control Client.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\bin\\Debug\\Call Control Client.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_BB69375232124133B9F452CE7F39DB06"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_96058DCFC497963BC24E055ECD2A1ACA"
             {
             "AssemblyRegister" = "3:1"
@@ -4730,6 +4699,37 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A16CDAD44E824ADA84DCC11B646A12BA"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Call Control Client, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_A16CDAD44E824ADA84DCC11B646A12BA"
+                    {
+                    "Name" = "8:Call Control Client.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\bin\\Debug\\Call Control Client.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_3E2A680F745A4C98B6560454CBE88F4D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A3C15BA533B42CA9F66FD8F6009D6F02"
@@ -5111,37 +5111,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BA00B8D4796B46A19692FB437D48CD30"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Call Control Client, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_BA00B8D4796B46A19692FB437D48CD30"
-                    {
-                    "Name" = "8:Call Control Client.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\bin\\Debug\\Call Control Client.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_2BB75774F47D4E01B756254C728A649B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BA4EDE4899D55058DE069D3D2CD724BD"
@@ -6402,6 +6371,37 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FA46694C50F9464098E1E8BB7D3BDAAF"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Call Control Client, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_FA46694C50F9464098E1E8BB7D3BDAAF"
+                    {
+                    "Name" = "8:Call Control Client.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\bin\\Debug\\Call Control Client.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_2BB75774F47D4E01B756254C728A649B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FAAD65EED37BF17F10149BD157FCA584"
             {
             "AssemblyRegister" = "3:1"
@@ -6743,13 +6743,24 @@
                 {
                     "{9EF0B969-E518-4E46-987F-47570745A589}:_BB69375232124133B9F452CE7F39DB06"
                     {
-                    "Name" = "8:Apocryphoon"
-                    "AlwaysCreate" = "11:FALSE"
+                    "Name" = "8:Call Control"
+                    "AlwaysCreate" = "11:TRUE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
                     "Property" = "8:_CF7230B038A0495292646B26DA4244D7"
                         "Folders"
                         {
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_70520977D64F45C5875997313684FEDD"
+                            {
+                            "Name" = "8:Client"
+                            "AlwaysCreate" = "11:TRUE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_2D9233D46D68467EA545E51BE24BB874"
+                                "Folders"
+                                {
+                                }
+                            }
                         }
                     }
                 }
@@ -6771,7 +6782,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Call Control Client"
         "ProductCode" = "8:{372C80AC-1B6D-4166-853A-AADE4E943E47}"
-        "PackageCode" = "8:{6C550432-E487-4B19-B8AE-0B3BA6E2EF57}"
+        "PackageCode" = "8:{1637A54D-63FF-464C-AE74-D506E495CFD7}"
         "UpgradeCode" = "8:{AA587655-5075-43CF-ACE5-03F2C93758D4}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"

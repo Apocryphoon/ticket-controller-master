@@ -23,7 +23,6 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <SupportUrl>https://github.com/Apocryphoon</SupportUrl>
     <ProductName>TicketController</ProductName>
     <PublisherName>Ricardo Ribeiro Cardoso</PublisherName>
     <ApplicationRevision>0</ApplicationRevision>
