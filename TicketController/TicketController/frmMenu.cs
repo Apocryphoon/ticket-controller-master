@@ -31,7 +31,7 @@ namespace TicketController
                 if (b == DialogResult.Yes)
                 {
                     x = true;
-                    string teste = "TicketController";
+                    string teste = "Call Control Client";
                     var processes = Process.GetProcessesByName(teste);
                     foreach (var p in processes)
                     {

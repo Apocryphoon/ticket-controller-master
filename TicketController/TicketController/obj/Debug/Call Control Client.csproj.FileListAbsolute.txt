@@ -2,6 +2,9 @@ C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketControl
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\SqlServerTypes\x86\msvcr120.dll
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Call Control Client.exe.config
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Call Control Client.exe
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Call Control Client.pdb
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\BouncyCastle.Crypto.dll
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Google.Protobuf.dll
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\K4os.Compression.LZ4.dll
@@ -81,8 +84,6 @@ C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketControl
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\RdlCompile.compiled
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.csproj.CoreCompileInputs.cache
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.csproj.CopyComplete
-C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Call Control Client.exe.config
-C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Call Control Client.exe
-C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\bin\Debug\Call Control Client.pdb
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.exe
 C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.pdb
+C:\Users\Apocryphoon-Win\Documents\GitHub\ticket-controller-master\TicketController\TicketController\obj\Debug\Call Control Client.csprojAssemblyReference.cache
